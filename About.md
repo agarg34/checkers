@@ -1,11 +1,13 @@
 ## Chess Algo
 
+This programs impements a checkesrs algorithm.
+Currently utilizes a Min-Max tree with alpha beta prusing to estimate the optimal move. Future improments incluse further optimizstions to this the effieincy of this tree as well as adding a machine learning based engine.
 #### Current Features
 
 - [x] Min max
   - [x] Alpha-beta pruning
 
-#### From [StockFish](https://www.chessprogramming.org/Stockfish#Chess_engine)
+#### Planned Features
 
 - [ ] Search
 
@@ -90,3 +92,5 @@
     - [ ] Pawn Storm
     - [ ] Square Control
   - [ ] Evaluation Patterns
+ 
+ [StockFish](https://www.chessprogramming.org/Stockfish#Chess_engine)
